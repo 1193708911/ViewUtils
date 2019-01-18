@@ -3,9 +3,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <supersports.com.ssports.AutoViewPager
-        android:id="@+id/view_pager"
+    <Button
+        android:id="@+id/button"
         android:layout_width="match_parent"
-        android:layout_height="200dp" />
+        android:text="start"
+        android:layout_height="wrap_content" />
 
+    <ImageView
+        android:layout_width="90dp"
+        android:id="@+id/img"
+        android:layout_below="@+id/button"
+        android:layout_height="120dp" />
 </RelativeLayout>
