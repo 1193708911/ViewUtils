@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ViewUtils.iml" filepath="$PROJECT_DIR$/.idea/ViewUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/ViewUtils.iml" filepath="$PROJECT_DIR$/ViewUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_annot/lib_annot.iml" filepath="$PROJECT_DIR$/lib_annot/lib_annot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_annot/lib_annot.iml" filepath="$PROJECT_DIR$/lib_annot/lib_annot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_compile/lib_compile.iml" filepath="$PROJECT_DIR$/lib_compile/lib_compile.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_compile/lib_compile.iml" filepath="$PROJECT_DIR$/lib_compile/lib_compile.iml" />
     </modules>
   </component>
